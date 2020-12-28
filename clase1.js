@@ -1,9 +1,8 @@
-var nombre = 'Sacha', apellido = 'Lifszyc'
-var edad = 28
+var nombre = 'Jorge', apellido = 'Montaño'
+var edad = 36
 
-edad = '28 años'
+//edad = '36 años'
 
 console.log('Hola ' + nombre + ' ' + apellido)
 console.log('Tengo ' + edad)
 
-var peso = 75
